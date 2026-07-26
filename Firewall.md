@@ -51,7 +51,6 @@ It compares each packet with predefined **Firewall Rules (Access Control List - 
 
 ## Firewall Working Diagram
 
-> **Add your image here**
 
 ![Firewall Working Flow](firewall_Working_flow.png)
 

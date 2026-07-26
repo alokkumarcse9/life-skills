@@ -1,13 +1,13 @@
-# Firewall
+### Firewall
 
-## What is a Firewall?
+### What is a Firewall?
 
 A **firewall** is a security system (hardware or software) that monitors and filters incoming and outgoing network traffic based on predefined security rules. It blocks unauthorized access while allowing trusted traffic to pass.
 
 > **In Simple Words:**  
 > A firewall is a security system that protects a private network from unauthorized access. It allows safe traffic and blocks harmful or unwanted traffic.
 
-## Why is a Firewall Used?
+### Why is a Firewall Used?
 
 A firewall is used to:
 
@@ -17,7 +17,7 @@ A firewall is used to:
 - Control which traffic can enter or leave the network.
 - Improve overall network security.
 
-## Purpose of a Firewall
+### Purpose of a Firewall
 
 The main purpose of a firewall is to create a **security barrier** between a **private network** and the **public Internet**.
 
@@ -32,7 +32,7 @@ The main purpose of a firewall is to create a **security barrier** between a **p
     (PCs, Servers, LAN)
 ```
 
-## How Does a Firewall Work?
+### How Does a Firewall Work?
 
 A firewall inspects every incoming and outgoing data packet.
 

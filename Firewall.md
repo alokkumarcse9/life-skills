@@ -7,7 +7,6 @@ A **firewall** is a security system (hardware or software) that monitors and fil
 > **In Simple Words:**  
 > A firewall is a security system that protects a private network from unauthorized access. It allows safe traffic and blocks harmful or unwanted traffic.
 
-
 ## Why is a Firewall Used?
 
 A firewall is used to:
@@ -33,15 +32,14 @@ The main purpose of a firewall is to create a **security barrier** between a **p
     (PCs, Servers, LAN)
 ```
 
-
-# ⚙️ How Does a Firewall Work?
+## How Does a Firewall Work?
 
 A firewall inspects every incoming and outgoing data packet.
 
 It compares each packet with predefined **Firewall Rules (Access Control List - ACL)** and decides whether to allow or block the traffic.
 
-- Allow → Safe Traffic
-- Deny / Block → Unsafe Traffic
+- ✅ Allow → Safe Traffic
+- ❌ Deny / Block → Unsafe Traffic
 
 ### Example
 
@@ -55,11 +53,9 @@ It compares each packet with predefined **Firewall Rules (Access Control List - 
 
 > **Add your image here**
 
-![Firewall Working Flow](images/firewall_Working_flow.png)
+![Firewall Working Flow](firewall_Working_flow.png)
 
----
-
-# Firewall Rules Can Be Based On
+## Firewall Rules Can Be Based On
 
 A firewall can filter traffic using:
 
@@ -70,45 +66,41 @@ A firewall can filter traffic using:
 - Program/Application
 - Keywords
 
----
+## Types of Firewall
 
-# 🛡️ Types of Firewall
-
-## 1️⃣ Host-Based Firewall (Software Firewall)
+### 1. Host-Based Firewall (Software Firewall)
 
 A Host-Based Firewall is installed on an individual computer and protects only that computer.
 
-### Features
+#### Features
 
 - Installed on a single computer.
 - Protects only one device.
 - Software-based firewall.
 
-### Examples
+#### Examples
 
 - Windows Defender Firewall
 - ZoneAlarm
 
----
-
-## Network-Based Firewall
+### 2. Network-Based Firewall
 
 A Network-Based Firewall protects an entire network instead of just one computer.
 
-### Features
+#### Features
 
 - Combination of hardware and software.
 - Installed between the Internet and the private network.
 - Protects all connected devices.
-- Commonly used in companies and organizations.
+- Commonly used by companies and organizations.
 
-### Network Firewall Diagram
+#### Network Firewall Diagram
 
 ```text
              Internet
                  │
         ┌────────────────┐
-        │ Network Firewall│
+        │ Network Firewall │
         └────────────────┘
                  │
       ┌──────────┼──────────┐
@@ -116,23 +108,19 @@ A Network-Based Firewall protects an entire network instead of just one computer
      PC1        PC2      Server
 ```
 
----
-
-# Real-Life Example
+## Real-Life Example
 
 Think of a firewall as the **security guard** at the entrance of a company.
 
-- Employees with a valid ID → Allowed
-- Unknown people →  Not Allowed
+- Employees with a valid ID → ✅ Allowed
+- Unknown people → ❌ Not Allowed
 
 Similarly,
 
-- Safe Internet Traffic → Allowed
-- Malicious Traffic → Blocked
+- Safe Internet Traffic → ✅ Allowed
+- Malicious Traffic → ❌ Blocked
 
----
-
-# References
+## References
 
 - https://www.youtube.com/watch?v=kDEX1HXybrU
 - https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6&index=1

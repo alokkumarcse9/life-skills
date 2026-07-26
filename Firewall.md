@@ -49,12 +49,12 @@ It compares each packet with predefined **Firewall Rules (Access Control List - 
 | 443 | HTTPS | ✅ Allow |
 | 23 | Telnet | ❌ Block |
 
-## Firewall Working Diagram
+### Firewall Working Diagram
 
 
 ![Firewall Working Flow](firewall_Working_flow.png)
 
-## Firewall Rules Can Be Based On
+### Firewall Rules Can Be Based On
 
 A firewall can filter traffic using:
 
@@ -65,7 +65,7 @@ A firewall can filter traffic using:
 - Program/Application
 - Keywords
 
-## Types of Firewall
+### Types of Firewall
 
 ### 1. Host-Based Firewall (Software Firewall)
 
@@ -107,7 +107,7 @@ A Network-Based Firewall protects an entire network instead of just one computer
      PC1        PC2      Server
 ```
 
-## Real-Life Example
+### Real-Life Example
 
 Think of a firewall as the **security guard** at the entrance of a company.
 
@@ -119,7 +119,7 @@ Similarly,
 - Safe Internet Traffic → ✅ Allowed
 - Malicious Traffic → ❌ Blocked
 
-## References
+### References
 
 - https://www.youtube.com/watch?v=kDEX1HXybrU
 - https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6&index=1

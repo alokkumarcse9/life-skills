@@ -38,16 +38,16 @@ A firewall inspects every incoming and outgoing data packet.
 
 It compares each packet with predefined **Firewall Rules (Access Control List - ACL)** and decides whether to allow or block the traffic.
 
-- ✅ Allow → Safe Traffic
-- ❌ Deny / Block → Unsafe Traffic
+- Allow → Safe Traffic
+- Deny / Block → Unsafe Traffic
 
 ### Example
 
 | Port | Service | Action |
 |------|---------|--------|
-| 80 | HTTP | ✅ Allow |
-| 443 | HTTPS | ✅ Allow |
-| 23 | Telnet | ❌ Block |
+| 80 | HTTP | Allow |
+| 443 | HTTPS | Allow |
+| 23 | Telnet | Block |
 
 ### Firewall Working Diagram
 
@@ -111,13 +111,13 @@ A Network-Based Firewall protects an entire network instead of just one computer
 
 Think of a firewall as the **security guard** at the entrance of a company.
 
-- Employees with a valid ID → ✅ Allowed
-- Unknown people → ❌ Not Allowed
+- Employees with a valid ID → Allowed
+- Unknown people → Not Allowed
 
 Similarly,
 
-- Safe Internet Traffic → ✅ Allowed
-- Malicious Traffic → ❌ Blocked
+- Safe Internet Traffic → Allowed
+- Malicious Traffic → Blocked
 
 ### References
 

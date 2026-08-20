@@ -111,4 +111,3 @@
 - YouTube – Active Listening: https://www.youtube.com/watch?v=rzsVh8YwZEQ
 - Wikipedia – Reflective Listening: https://en.wikipedia.org/wiki/Reflective_listening
 - YouTube – Assertive Communication: https://www.youtube.com/watch?v=BanqlGZSWiI
-- ChatGPT – Used for understanding, organizing, and proofreading the answers.

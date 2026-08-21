@@ -42,4 +42,3 @@ Going forward, I will take these things more seriously:
 - https://www.youtube.com/watch?v=O96fE1E-rf8
 - https://www.youtube.com/watch?v=5MgBikgcWnY
 - https://doist.com/blog/deep-work/
--

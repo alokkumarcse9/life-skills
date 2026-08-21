@@ -59,3 +59,13 @@
 * I want to improve this by choosing my words more carefully.
 * I will try to clearly explain what I feel without blaming or disrespecting others.
 * I will also listen to the other person's point of view and try to find a solution that works for both sides.
+
+
+# References
+
+- https://www.youtube.com/watch?v=rzsVh8YwZEQ
+- https://en.wikipedia.org/wiki/Reflective_listening
+- https://www.youtube.com/watch?v=mixJEpGTvGw
+- https://www.youtube.com/watch?v=SYuboi4GWO4
+- https://www.youtube.com/watch?v=BanqlGZSWiI
+- https://www.youtube.com/watch?v=vlwmfiCb-vc

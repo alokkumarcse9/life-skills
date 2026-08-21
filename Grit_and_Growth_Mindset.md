@@ -37,3 +37,11 @@
 * I will carry myself with confidence. I will stand tall and sit straight.
 * I will understand the users and their needs properly. I want to serve them and society by writing solid and reliable software.
 * I will focus on mastery until I can solve problems confidently and naturally. If someone wakes me up at 3 AM, I should be able to calmly understand the problem, solve it, and go back to sleep like James Bond.
+
+# References
+
+- https://www.youtube.com/watch?v=H14bBuluwB8
+- https://www.youtube.com/watch?v=75GFzikmRY0
+- https://www.youtube.com/watch?v=8ZhoeSaPF-k
+- https://www.youtube.com/watch?v=9DVdclX6NzY
+- https://docs.google.com/document/d/1SPUqC-8WwfiDlsRGKWqoMtC14v6_2TEhq7LZs29bJWk

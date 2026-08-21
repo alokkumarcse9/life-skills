@@ -35,3 +35,11 @@ Going forward, I will take these things more seriously:
 * Take breaks and use relaxed thinking when I get stuck.
 * Practise regularly instead of depending only on reading or watching tutorials.
 * Try to recall what I learned without looking at my notes.
+
+# References
+
+- https://www.youtube.com/watch?v=_f-qkGJBPts
+- https://www.youtube.com/watch?v=O96fE1E-rf8
+- https://www.youtube.com/watch?v=5MgBikgcWnY
+- https://doist.com/blog/deep-work/
+-

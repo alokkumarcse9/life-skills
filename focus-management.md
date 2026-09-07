@@ -31,9 +31,9 @@
 
 ## References
 
-https://www.youtube.com/watch?v=b6xQpoVgN68
-https://www.youtube.com/watch?v=LA6mvxwecZ0
-https://www.youtube.com/watch?v=Jkl1vMNvvHU
-https://www.youtube.com/watch?v=gTaJhjQHcf8
-https://www.youtube.com/watch?v=3E7hkPZ-HTk
-https://www.youtube.com/watch?v=h5w5XYvTAlU
+- https://www.youtube.com/watch?v=b6xQpoVgN68
+- https://www.youtube.com/watch?v=LA6mvxwecZ0
+- https://www.youtube.com/watch?v=Jkl1vMNvvHU
+- https://www.youtube.com/watch?v=gTaJhjQHcf8
+- https://www.youtube.com/watch?v=3E7hkPZ-HTk
+- https://www.youtube.com/watch?v=h5w5XYvTAlU
